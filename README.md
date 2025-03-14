@@ -1,5 +1,5 @@
 
-![logo](https://github.com/saurabhsjadhav/userprofile/blob/main/Orange%20And%20White%20Gradient%20Workshop%20Banner.png)
+![logo](https://github.com/saurabhsjadhav/saurabhsjadhav/blob/main/Orange%20And%20White%20Gradient%20Workshop%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
