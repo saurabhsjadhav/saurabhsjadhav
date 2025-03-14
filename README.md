@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://29saurabhjadhav.blogspot.com/](https://29saurabhjadhav.blogspot.com/)
 
-- 💬 Ask me about **👋 Hi, I’m Saurabh Jadhav! 🌱 Learning Linux, AWS, and DevOps to the cloud. 💡 Simplifying technology, one step at a time.**
+- Passionate Cloud and DevOps enthusiast | AWS Certified Solutions Architect | Exploring Python, Linux, and Git | Building and automating with innovation.**
 
 - 📫 How to reach me **ssjadhav2991@gmail.com**
 
